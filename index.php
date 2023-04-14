@@ -1,3 +1,3 @@
 <?php  
-echo 'Test';
+echo 'Welcome to the world of automation';
 ?>
